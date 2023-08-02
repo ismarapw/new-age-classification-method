@@ -1,8 +1,8 @@
 # CNN ELM for Age Estimation - Final Year Project
-A project to build age classification models or methods based on facial images. This project was created to complete my undergraduate studies alias as a final project as an informatics student. 
+Most of age detection or classification used backpropagation as a training method. However, the process required iteration to get the minimum error. Here we propose new combination algorithm using Convolutional Neural Network and Extreme Learning Machine. This method leverage pre-trained Convolutional Layer from ImageNet and VGGFace for the feature extraction process. Unlike common neural networks, we use Extreme Learning Machine for training the extracted features without gradient (iteration) process. 
 
 # Publication
-This project has been publicated through 2023 International Conference on Artificial Intelligence in Information and Communication (ICAIIC). 
+This project was created to complete my undergraduate studies alias as a final project as an informatics student and has been publicated through 2023 International Conference on Artificial Intelligence in Information and Communication (ICAIIC). 
 ```
 Paper Title : ConvELM: Exploiting Extreme Learning Machine on Convolutional Neural Network for Age Estimation.
 Conference : International Conference on Artificial Intelligence in Information and Communication 2023.
