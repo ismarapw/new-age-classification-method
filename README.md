@@ -1,4 +1,4 @@
-# CNN ELM for Age Estimation - Final Year Project
+# CNN ELM for Age Estimation
 Most of age detection or classification used backpropagation as a training method. However, the process required iteration to get the minimum error. Here we propose new combination algorithm using Convolutional Neural Network and Extreme Learning Machine. This method leverage pre-trained Convolutional Layer from ImageNet and VGGFace for the feature extraction process. Unlike common neural networks, we use Extreme Learning Machine for training the extracted features without gradient (iteration) process. 
 
 # Publication
